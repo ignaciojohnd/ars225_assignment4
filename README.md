@@ -1,6 +1,6 @@
 # ars225_final
 
-https://jadesaquarium.com/
+[https://jadesaquarium.com/](url)
 
 Overview
 I made a website of AI generated images of fish in the style of a bestiary. These pictures are generated based on real pictures I took using the Stable Diffusion model we used in class. These images will be hosted on the website. Generated poetry based on the images are also attached. It will be an interactive piece in that regard.
@@ -18,7 +18,12 @@ I suppose my question is in the style of the Ship of Theseus. Whether you take a
 
 Art References
 Sophia Crespo is an artist interested in biology-inspired technologies. Her work is about AI image formation and how its related to how humans cognitively recognize the world. Her projects that are my particular inspiration for this are Critically Extant, which shows generated pictures of endangered species with little media presence, and This Jellyfish Does Not Exist which shows generated pictures of jellyfish and questions what we recognize as the ‘essence’ of a jellyfish.
+[https://sofiacrespo.com/](url)
+[https://criticallyextant.com/](url)
+[https://thisjellyfishdoesnotexist.com/](url)
 
 My Boyfriend Came Back From the War is a hypertext net art narrative that tells a story through clicking on images and texts. I plan on incorporating a similar structure in my website.
+[https://www.artsy.net/artwork/olia-lialina-my-boyfriend-came-back-from-the-war](url)
 
 A Jelly-Fish is a poem about the mysterious beauty of jellyfish. My texts on my website will be inspired or generated from poems about sea life such as these.
+[https://poets.org/poem/jelly-fish](url)
